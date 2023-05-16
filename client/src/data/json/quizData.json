@@ -1,0 +1,55 @@
+[
+    {
+        "_id": "6460f423738d8eebb8c0b5d5",
+        "questions": [
+            {
+                "question": "What is color of sky?",
+                "options": [
+                    "Red",
+                    "Blue",
+                    "Orange",
+                    "Pink"
+                ],
+                "correctAnswer": "Blue",
+                "time": 30,
+                "correctMarks": 1,
+                "_id": "6460f423738d8eebb8c0b5d6"
+            }
+        ],
+        "quizName": "Quiz 1",
+        "__v": 0
+    },
+    {
+        "_id": "646369e2f650c9c577cf4c49",
+        "questions": [
+            {
+                "question": "What is color of sky?",
+                "options": [
+                    "Red",
+                    "Blue",
+                    "Orange",
+                    "Pink"
+                ],
+                "correctAnswer": "Blue",
+                "time": 30,
+                "correctMarks": 1,
+                "_id": "646369e2f650c9c577cf4c4a"
+            },
+            {
+                "question": "What is 2x7=?",
+                "options": [
+                    "7",
+                    "8",
+                    "12",
+                    "14"
+                ],
+                "correctAnswer": "14",
+                "time": 30,
+                "correctMarks": 1,
+                "_id": "646369e2f650c9c577cf4c4b"
+            }
+        ],
+        "quizName": "Quiz 2",
+        "__v": 0
+    }
+]
