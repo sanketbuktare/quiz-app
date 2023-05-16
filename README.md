@@ -8,7 +8,6 @@ Make sure you have the following installed on your machine:
 
 - Node.js: https://nodejs.org
 - MongoDB: https://www.mongodb.com
-
 ## Getting Started
 
 ### Client (Frontend)
@@ -16,7 +15,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
 ```shell
-   git clone <repository_url>
+   git clone https://github.com/sanketbuktare/quiz-app
 ```
 
 2. Navigate to the client directory:
